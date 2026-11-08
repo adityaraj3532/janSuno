@@ -1,5 +1,7 @@
 # JanSuno — Local Development Edition
 
+https://jansuno-supy.onrender.com
+
 A standalone Windows-friendly React + Vite frontend and FastAPI + SQLite backend. It does **not** require ChatGPT Sites hosting or any API keys.
 
 ## Requirements
